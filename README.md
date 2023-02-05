@@ -10,7 +10,7 @@ Aim of this project is to implement database in MSSQL decribed by a schema and m
 
 ## Requirements
 
-1. **Schema Implementation**:
+1. [**Schema Implementation**](sql/1_schema.sql):
     - specyfing manadatory columns (NULL NOT NULL)
     - UNIQUE constraint
     - CHECK constraint
